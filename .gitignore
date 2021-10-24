@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FuckAutomapper
+/FuckAutomapper/bin
+/FuckAutomapper/obj/Debug/net5.0
+/FuckAutomapper/obj/Release/net5.0
+/FuckAutomapper/obj
+/FuckAutomapper.Core
