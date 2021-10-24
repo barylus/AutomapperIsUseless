@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckAutomapper.Runner", "FuckAutomapper\FuckAutomapper.Runner.csproj", "{5D1C1729-9093-4663-AEE9-861CCB1B77A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuckAutomapper.TypeMap", "FuckAutomapper.Core\FuckAutomapper.TypeMap.csproj", "{52FCB88D-313A-4E94-9607-EF0A1BAE147D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1C1729-9093-4663-AEE9-861CCB1B77A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1C1729-9093-4663-AEE9-861CCB1B77A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1C1729-9093-4663-AEE9-861CCB1B77A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1C1729-9093-4663-AEE9-861CCB1B77A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FCB88D-313A-4E94-9607-EF0A1BAE147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FCB88D-313A-4E94-9607-EF0A1BAE147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FCB88D-313A-4E94-9607-EF0A1BAE147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FCB88D-313A-4E94-9607-EF0A1BAE147D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42ACAF9-6188-4000-839B-835803EEC135}
+	EndGlobalSection
+EndGlobal
