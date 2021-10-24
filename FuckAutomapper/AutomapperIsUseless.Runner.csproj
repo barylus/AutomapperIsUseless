@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FuckAutomapper.Core\FuckAutomapper.TypeMap.csproj" />
+    <ProjectReference Include="..\FuckAutomapper.Core\AutomapperIsUseless.TypeAdapter.csproj" />
   </ItemGroup>
 
 </Project>
